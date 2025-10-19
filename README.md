@@ -148,3 +148,7 @@ Here's how you can contribute:
     5.  Open a [Pull Request](https://github.com/epiecs/free-grilly/pulls) against the main branch of this repository.
 
 Thank you for considering contributing to Free-Grilly!
+
+I love your work. The cloud software should not be there in the first place. The MQTT functionality is really great, I've added some info to a home assistant dashboard and can control my BBQ while working from home (which is too far away for BT)
+
+You should add something like buy me a coffee to accept donations!
